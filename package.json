@@ -1,0 +1,34 @@
+{
+  "name": "good-cloudwatch",
+  "version": "0.0.0",
+  "description": "AWS Cloudwatch broadcasting for Good process monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asilluron/good-cloudwatch.git"
+  },
+  "keywords": [
+    "aws",
+    "cloudwatch",
+    "broadcasting",
+    "hapi",
+    "good",
+    "logs",
+    "monitor",
+    "process",
+    "cloud",
+    "watch"
+  ],
+  "author": "Andrew Silluron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asilluron/good-cloudwatch/issues"
+  },
+  "homepage": "https://github.com/asilluron/good-cloudwatch#readme",
+  "dependencies": {
+    "aws-sdk": "^2.7.25"
+  }
+}
